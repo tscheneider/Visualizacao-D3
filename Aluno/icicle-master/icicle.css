@@ -1,0 +1,11 @@
+rect {
+  opacity: 1;
+  stroke: white;
+}
+text {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  fill: #484848;
+  font-size: 10px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}

@@ -1,0 +1,151 @@
+{
+        "name": "Vasos Sanguíneos",
+        "value": 0,
+        "children": [
+        {
+            "name": "Artérias",
+            "value": 0,
+            "children": [
+            {
+                "name": "Cabeça e Pescoço",
+                "value": 3,
+                "children": [
+                {
+                    "name": "Artéria Carótida Comum",
+                    "value": 8,
+                    "children": [
+                    {
+                        "name": "Artéria Carótida Externo",
+                        "value": 1,
+                        "children": [
+                            {
+                                "name": "Artéria Maxiliar",
+                                "value": 5
+                            },
+                            {
+                                "name": "Artéria Facial",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Artéria Carótida Interno",
+                        "value": 1
+                    }
+                    ]
+                }
+                ]
+            },
+            {
+                "name": "Tórax",
+                "value": 1,
+                "children": [
+                {
+                    "name": "Tronco Pulmonar",
+                    "value": 1,
+                    "children": [
+                    {
+                        "name": "Artéria Pulmonar Direita",
+                        "value": 2
+                    },
+                    {
+                        "name": "Artéria Pulmonar Esquerda",
+                        "value": 1
+                    }
+                    ]
+                },
+                {
+                    "name": "Arco da Aorta",
+                    "value": 8,
+                    "children": [
+                    {
+                        "name": "Artéria Subclávia Esquerda",
+                        "value": 1
+                    },
+                    {
+                        "name": "Tronco Branquiocafélico",
+                        "value": 8,
+                        "children": [
+                        {
+                            "name": "Artéria Subclávia Direita",
+                            "value": 4       
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            },
+            {
+                "name": "Abdômen",
+                "value": 1,
+                "children": [
+                {
+                    "name": "Parte Abdominal da Aorta",
+                    "value": 5,
+                    "children": [
+                    {
+                        "name": "Artérias Subcostais",
+                        "value": 2
+                    },
+                    {
+                        "name": "Artérias Frênicas Inferiores",
+                        "value": 5
+                    },
+                    {
+                        "name": "Artérias Ilíaca Comum",
+                        "value": 1,
+                        "children": [
+                        {
+                            "name": "Artéria ilíaca Interna",        
+                            "value": 0
+                        },
+                        {
+                            "name": "Artéria ilíaca Externa",
+                            "value": 2
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            }
+    
+            ]
+        },
+        {
+            "name": "Veias",
+            "value": 0,
+            "children": [
+            {
+                "name": "Cabeça e Pescoço",
+                "value": 0,
+                "children": [
+                {
+                    "name": "Veia Jugular Interna",
+                    "value": 1
+                },
+                {
+                    "name": "Veia Jugular Externa",
+                    "value": 1
+                }
+                ]
+            },
+            {
+                "name": "Tórax",
+                "value": 3,
+                "children": [
+                {
+                    "name": "Veias Pulmonares",
+                    "value": 1
+                },
+                {
+                    "name": "Veia Cava Superior",
+                    "value": 2
+                }
+                ]
+            }
+            ]
+        }
+        ]
+}

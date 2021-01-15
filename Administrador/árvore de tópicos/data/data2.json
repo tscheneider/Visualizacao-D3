@@ -1,0 +1,859 @@
+[
+    {
+      "id": 1,
+      "name": "Sistema Cardiovascular",
+      "parent": "null",
+      "text": "Caracteriza-se por um sistema que transporta o sangue por todo o corpo, sendo formado pelo coração e por vasos sanguíneos. O coração bombeia o sangue ao longo da enorme rede de vasos conduzindo nutrientes, oxigênio e resíduos que entram e saem das células",
+      "children": [
+        {
+          "id": 11,
+          "name": "Coração",
+          "parent": "Sistema Cardiovascular",
+          "text": "Atua como uma bomba contrátil-propulsora, sendo responsável por impulsionar o sangue para todo o corpo. Sua porção direita, por meio da veia cava superior e da veia cava inferior, recebe sangue venoso (pobre em oxigênio) do corpo, bombeando-o pelo tronco e pelas artérias pulmonares a fim de sofrer oxigenação nos pulmões. Enquanto sua porção esquerda recebe sangue arterial (oxigenado) dos pulmões por meio das veias pulmonares, bombeando-o em direção à aorta, por onde é difundido para o corpo. É constituído por quatro cavidades, sendo essas o átrio esquerdo, o átrio direito, o ventrículo esquerdo e o ventrículo direito. Destacando que, os átrios são responsáveis por receber o sangue e bombeá-lo em direção aos ventrículos. A parede das cavidades que compõem o coração é formada por três camadas: endocárdio, a mais interna, fina, constituída por endotélio e por tecido conectivo subendotelial; miocárdio, camada média e mais espessa, constituída por músculo cardíaco; e epicárdio, camada fina e mais externa, constituída pela lâmina visceral do pericárdio seroso.",
+          "slug": "coracao"
+        },
+        {
+          "id": 12,
+          "name": "Vasos Sanguíneos",
+          "parent": "Sistema Cardiovascular",
+          "text": "Existem três tipos de vasos sanguíneos: artérias, veias e capilares. As artérias compõem uma rede ramificada, a qual distribui o sangue pelo corpo; os capilares formam um leito capilar, no qual há troca de oxigênio, nutrientes, resíduos e outras substâncias com o líquido extracelular; e as veias reconduzem o sangue para o coração. A maior parte dos vasos sanguíneos possui três camadas: a túnica íntima, definida por uma única camada de células endoteliais, sendo a mais interna; a túnica média, formada por músculo liso; e a túnica externa, composta por tecido conjuntivo. Destacando que, artérias e veias são diferenciadas pela espessura, organização e quantidade de fibras elásticas da túnica média, além da presença de válvulas nas paredes das veias. As artérias são vasos que transportam sangue sob alta pressão do coração em direção aos tecidos do corpo, apresentando diminuição do calibre à medida que se afastam do coração. As artérias emitem ramos, os quais podem ser colaterais, onde o tronco de origem continua existindo; terminais, quando o tronco principal deixa de existir; e recorrentes, quando o sangue circula em direção oposta àquela da artéria de origem.",
+          "children": [
+            {
+              "id": 121,
+              "name": "Artérias",
+              "parent": "Vasos Sanguíneos",
+              "text": "As artérias podem ser classificadas em: Artérias de grande calibre (elásticas): São artérias condutoras, com muitas camadas elásticas em suas paredes, a fim de permitir sua expansão com pouca variação de pressão ao receber o sangue, podendo voltar ao seu tamanho normal entre as contrações dos ventrículos. Exemplos: artéria aorta, tronco braquiocefálico, artéria subclávia, artéria carótida comum, tronco pulmonar e artérias pulmonares. Artérias de médio calibre(musculares): São artérias distribuidoras, com paredes formadas principalmente por fibras musculares lisas, as quais diminuem seu diâmetro ao controlar o fluxo sanguíneo para variados locais. Exemplos: artéria braquial e artéria femoral.Artérias de pequeno calibre: Apresentam lúmen mais fino e paredes musculares mais espessas. Normalmente, as pequenas artérias não têm nome específico.Arteríolas: Menores ramos das artérias e oferecem maior resistência ao fluxo sanguíneo (reduz a tensão do sangue antes de sua passagem pelos capilares).",
+              "children": [
+                {
+                  "id": 1211,
+                  "name": "Cabeça e Pescoço",
+                  "parent": "Artérias",
+                  "text": null,
+                  "children": [
+                    {
+                      "id": 12111,
+                      "name": "Artéria Carótida Comum",
+                      "parent": "Cabeça e Pescoço",
+                      "text": "A artéria carótida comum inicia a partir da bifurcação do tronco braquiocefálico no lado direito do tórax e, do lado esquerdo, inicia diretamente a partir do arco da aorta. É responsável pela irrigação do pescoço e da cabeça por meio dos seus dois ramos terminais (artéria carótida interna e artéria carótida externa).",
+                      "children": [
+                        {
+                          "id": 121112,
+                          "name": "Artéria Carótida Externo",
+                          "parent": "Artéria Carótida Comum",
+                          "text": "A artéria carótida externa é uma das duas ramificações da artéria carótida comum, que inicia na região do pescoço. Dirige-se à região anterior da face. Assim, irriga a região lateral e anterior da cabeça por meio dos ramos que emite, destacando a artéria facial, artéria maxilar e artéria temporal superficial.",
+                          "children": [
+                            {
+                              "id": 1211121,
+                              "name": "Artéria Temporal Superficial",
+                              "parent": "Artéria Carótida Externo",
+                              "text": "A artéria temporal superficial é um ramo terminal da artéria carótida externa. Em seu trajeto, ascende entre a articulação temporomandibular e anteriormente à orelha, entrando na fossa temporal e terminando no couro cabeludo, onde se divide em ramo frontal e ramo parietal. Atua irrigando os músculos da face e a pele sobre os ossos temporal e frontal.",
+                              "slug": "arteria-temporal-superficial"
+                            },
+                            {
+                              "id": 1211122,
+                              "name": "Artéria Maxiliar",
+                              "parent": "Artéria Carótida Externo",
+                              "text": "A artéria maxilar é um dos ramos terminais da artéria carótida externa. Dirige-se anterior e horizontalmente em direção à maxila. Atua, junto de pequenos ramos que emite, na irrigação dos músculos da mastigação e dos dentes.",
+                              "slug": "arteria-maxiliar"
+                            },
+                            {
+                              "id": 1211123,
+                              "name": "Artéria Facial",
+                              "parent": "Artéria Carótida Externo",
+                              "text": "A artéria facial é um ramo colateral e anterior da artéria carótida externa. Tem um trajeto que ascende sobre a glândula submandibular, se torce sobre a margem inferior da mandíbula e entra na face, emitindo vários outros ramos. Irriga a face e os músculos da expressão facial.",
+                              "slug": "arteria-facial"
+                            }
+                          ]
+                        },
+                        {
+                          "id": 121111,
+                          "name": "Artéria Carótida Interno",
+                          "parent": "Artéria Carótida Comum",
+                          "text": "A artéria carótida interna é um ramo terminal da artéria carótida comum, que inicia na região do pescoço e segue até a base do crânio. Possui um direcionamento vertical e entra no crânio por meio do canal carótico, encontrado no osso temporal. É responsável pela irrigação do encéfalo",
+                          "slug": "arteria-carotida-interno"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 1212,
+                  "name": "Tórax",
+                  "parent": "Artérias",
+                  "text": null,
+                  "children": [
+                    {
+                      "id": 12121,
+                      "name": "Tronco Pulmonar",
+                      "parent": "Tórax",
+                      "text": "O tronco pulmonar surge no espaço do ventrículo direito, dirigindo-se anteriormente à parte ascendente da artéria aorta. Mede aproximadamente 5 cm de comprimento e 3 cm de largura, dividindo-se em artérias pulmonares direita e esquerda, as quais transportam sangue venoso para os pulmões onde ocorre a troca de gases (hematose).",
+                      "children": [
+                        {
+                          "id": 121211,
+                          "name": "Artéria Pulmonar Direita",
+                          "parent": "Tronco Pulmonar",
+                          "text": "A artéria pulmonar direita origina-se da ramificação do tronco pulmonar na região do ângulo do esterno e segue em direção ao pulmão direito, carregando sangue a fim de ser oxigenado.",
+                          "slug": "arteria-pulmonar-direita"
+                        },
+                        {
+                          "id": 121212,
+                          "name": "Artéria Pulmonar Esquerda",
+                          "parent": "Tronco Pulmonar",
+                          "text": "A artéria pulmonar esquerda origina-se da ramificação do tronco pulmonar na região do ângulo do esterno e segue em direção ao pulmão esquerdo, carregando sangue a fim de ser oxigenado.",
+                          "slug": "arteria-pulmonar-esquerda"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 1213,
+                      "name": "Parte Ascendente da Aorta",
+                      "parent": "Tórax",
+                      "text": "A parte ascedente da aorta refere-se ao início da artéria aorta, a qual emerge do ventrículo esquerdo, posterior ao tronco pulmonar. Seu trajeto ascende cerca de 5 cm até o ângulo do esterno, onde passa a ser o arco da aorta. Dessa região, derivam a artéria coronária direita e a artéria coronária esquerda.",
+                      "children": [
+                        {
+                          "id": 12131,
+                          "name": "Artéria Coronária Esquerda",
+                          "parent": "Parte Ascendente da Aorta",
+                          "text": "A artéria coronária esquerda origina-se a partir da parte ascendente da artéria aorta e possui um trajeto curto antes de emitir seus dois ramos terminais: o ramo interventricular anterior e o ramo circunflexo, os quais fornecem ainda outras ramificações. Irriga a maior parte do átrio esquerdo e do ventrículo esquerdo, além do septo interventricular e dos fascículos atrioventriculares.",
+                          "children": [
+                            {
+                              "id": 121311,
+                              "name": "Ramo Interventricular Anterior",
+                              "parent": "Artéria Coronária Esquerda",
+                              "text": "O ramo interventricular anterior tem origem a partir da bifurcação da artéria coronária esquerda e segue seu trajeto pelo sulco interventricular anterior ao ápice do coração. Esse ramo irriga o ventrículo direito e o ventrículo esquerdo e uma parte anterior do septo interventricular. ",
+                              "slug": "ramo-interventricular-anterior"
+                            },
+                            {
+                              "id": 121312,
+                              "name": "Ramo Circunflexo",
+                              "parent": "Artéria Coronária Esquerda",
+                              "text": "O ramo circunflexo se origina da bifurcação da artéria coronária esquerda, direcionando-se para a esquerda pelo sulco coronário até a face posterior do coração. Fornece suprimento sanguíneo para o átrio esquerdo e para o ventrículo esquerdo.",
+                              "slug": "ramo-circunflexo"
+                            }
+                          ]
+                        },
+                        {
+                          "id": 12132,
+                          "name": "Artéria Coronária Direita",
+                          "parent": "Parte Ascendente da Aorta",
+                          "text": "A artéria coronária direita origina-se a partir da parte ascendente da artéria aorta e tem o ramo interventricular posterior como um de seus ramos. Segue seu trajeto no sulco coronário entre os átrios e os ventrículos, passando pela região anterior e posterior do coração. Fornece suprimento sanguíneo ao átrio direito, ao nó sinoatrial (SA), ao nó atrioventricular (AV) e à parte posterior do septo interventricular (SIV).",
+                          "children": [
+                            {
+                              "id": 121321,
+                              "name": "Ramo Interventricular Posterior",
+                              "parent": "Artéria Coronária Direita",
+                              "text": "O ramo interventricular posterior tem origem na artéria coronária direita, seguindo um trajeto no sulco interventricular posterior até o ápice do coração. Irriga os ventrículos direito e esquerdo, além de uma parte posterior do septo interventricular do coração.",
+                              "slug": "ramo-interventricular-posterior"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": 1214,
+                      "name": "Arco da Aorta",
+                      "parent": "Tórax",
+                      "text": "O arco da aorta é uma continuação da parte ascendente da artéria aorta, seguindo de forma curva posteriormente à esquerda da traqueia e do esôfago, e superiormente ao brônquio principal esquerdo. Dessa porção, partem o tronco braquiocefálico, a artéria carótida comum esquerda e a artéria subclávia esquerda.",
+                      "children": [
+                        {
+                          "id": 12141,
+                          "name": "Artéria Subclávia Esquerda",
+                          "parent": "Arco da Aorta",
+                          "text": "A artéria subclávia esquerda surge diretamente a partir do arco da aorta, ascende de maneira lateral à artéria carótida comum esquerda e desloca-se abaixo da clavícula. Ao alcançar a borda lateral da primeira costela, será continuada pela artéria axilar; sendo responsável pelo transporte de sangue ao membro superior esquerdo.",
+                          "slug": "arteria-subclavia-esquerda"
+                        },
+                        {
+                          "id": 12142,
+                          "name": "Artéria Subclávia Comum Esquerda",
+                          "parent": "Arco da Aorta",
+                          "text": "A artéria carótida comum esquerda inicia diretamente a partir do arco da aorta. É responsável pela irrigação do pescoço e da cabeça por meio dos seus dois ramos terminais (artéria carótida interna e artéria carótida externa).",
+                          "slug": "arteria-subclavia-comum-esquerda"
+                        },
+                        {
+                          "id": 12143,
+                          "name": "Tronco Branquiocafélico",
+                          "parent": "Arco da Aorta",
+                          "text": "O tronco braquiocefálico deriva do arco da artéria aorta, sendo seu primeiro ramo. Seu trajeto é pequeno, iniciando no mediastino superior e terminando atrás da articulação esternoclavicular direita. Termina bifurcando-se em artéria subclávia direita e artéria carótida comum direita, as quais irão seguir em direção ao membro superior direito e ao lado direito do pescoço, respectivamente.",
+                          "children": [
+                            {
+                              "id": 121431,
+                              "name": "Artéria Subclávia Direita",
+                              "parent": "Tronco Branquiocafélico",
+                              "text": "A artéria subclávia direita tem origem a partir da bifurcação do tronco braquiocefálico, deslocando-se abaixo da clavícula. E ao alcançar a borda lateral da primeira costela, será continuada pela artéria axilar. É responsável por levar sangue ao membro superior direito.",
+                              "slug": "arteria-subclavia-direita"
+                            },
+                            {
+                              "id": 121432,
+                              "name": "Artéria Subclávia Comum Direita",
+                              "parent": "Tronco Branquiocafélico",
+                              "text": "A artéria carótida comum direita inicia a partir da bifurcação do tronco braquiocefálico. É responsável pela irrigação do pescoço e da cabeça por meio dos seus dois ramos terminais (artéria carótida interna e artéria carótida externa).",
+                              "slug": "arteria-subclavia-comum-direita"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": 1215,
+                      "name": "Parte Torácica da Aorta",
+                      "parent": "Tórax",
+                      "text": "A parte torácica da aorta pertence à parte descendente desse vaso, sendo uma continuação do arco da aorta. Segue um trajeto que desce no mediastino posterior à esquerda da coluna vertebral, direcionando-se à direita de forma gradual até atingir o plano mediano. Emite as artérias intercostais posteriores, as artérias esofágicas e as artérias brônquicas.",
+                      "children": [
+                        {
+                          "id": 12151,
+                          "name": "Artéria Intercostais Posteriores",
+                          "parent": "Parte Torácica da Aorta",
+                          "text": "As artérias intercostais posteriores surgem, aos pares, da face posterior da parte torácica da aorta, seguindo um trajeto lateral (para a direita e para a esquerda) e depois anterior, de forma paralela às costelas. São responsáveis pela irrigação dos músculos intercostais e da pele sobrejacente.",
+                          "slug": "arteria-intercostais-posteriores"
+                        },
+                        {
+                          "id": 12152,
+                          "name": "Artéria Esofágicas",
+                          "parent": "Parte Torácica da Aorta",
+                          "text": "As artérias esofágicas podem ser formadas por dois (2) a cinco (5) ramos e emergem da face anterior da parte torácica da aorta. Seguem em direção anterior ao esôfago, sendo responsável, então, pela sua irrigação.",
+                          "slug": "arteria-esofagicas"
+                        },
+                        {
+                          "id": 12153,
+                          "name": "Artéria Brônquicas",
+                          "parent": "Parte Torácica da Aorta",
+                          "text": "As artérias brônquicas podem ser constituídas por um (1) ou por dois (2) ramos e dividem-se em esquerdas e direitas. As esquerdas surgem da face anterior da aorta, enquanto as direitas podem surgir de uma artéria intercostal posterior direita, e direcionam-se lateralmente de forma a irrigar os tecidos dos brônquios e a pleura visceral. ",
+                          "slug": "arteria-bronquicas"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id":213,
+                  "name": "Abdômen",
+                  "parent": "Artérias",
+                  "text": null,
+                  "children": [
+                    {
+                      "id":2131,
+                      "name": "Parte Abdominal da Aorta",
+                      "parent": "Abdômen",
+                      "text": "A parte abdominal da aorta corresponde à parte descendente da artéria aorta, sendo continuação da parte torácica. Emite ramos responsáveis por irrigar os órgãos abrigados na cavidade abdominal e na cavidade pélvica.",
+                      "children": [
+                        {
+                          "id":21311,
+                          "name": "Artérias Subcostais",
+                          "parent": "Parte Abdominal da Aorta",
+                          "text": "As artérias subcostais são bilaterais. Originam-se na região póstero-lateral da parte descendente da aorta, abaixo da décima segunda costela, seguindo um trajeto similar ao das artérias intercostais posteriores. Atuam na irrigação dos músculos da parede anterolateral do abdome.",
+                          "slug": "arteria-subcostais"
+                        },
+                        {
+                          "id":21312,
+                          "name": "Artérias Frênicas Inferiores",
+                          "parent": "Parte Abdominal da Aorta",
+                          "text": "As artérias frênicas inferiores apresentam-se em número de duas, sendo uma esquerda e outra direita. Originam-se na parte anterior e abdominal da artéria aorta e imediatamente abaixo do diafragma, sendo as primeiras ramificações da parte abdominal da aorta. Direcionam-se de forma ascendente, atuando no suprimento sanguíneo do diafragma, além de auxiliar na vascularização do fígado, esôfago e baço. ",
+                          "slug": "arteria-frenicas-inferiores"
+                        },
+                        {
+                          "id":21313,
+                          "name": "Artéria Mesestérica Superior",
+                          "parent": "Parte Abdominal da Aorta",
+                          "text": "A artéria mesentérica superior parte da região anterior da parte abdominal da artéria orta, abaixo do tronco celíaco, ao nível de L1. E segue seu trajeto, irrigando o duodeno, o jejuno, o íleo, o ceco, o apêndice vermiforme, o colo ascendente e colo transverso.",
+                          "slug": "arteria-mesesterica-superior"
+                        },
+                        {
+                          "id":21314,
+                          "name": "Artérias Lombares",
+                          "parent": "Parte Abdominal da Aorta",
+                          "text": "As artérias lombares surgem, em número de quatro pares normalmente, a partir da parede posterior da porção abdominal da artéria aorta. Atuam na irrigação da parede abdominal posterior e da coluna vertebral.",
+                          "slug": "arteria-lombares"
+                        },
+                        {
+                          "id":21315,
+                          "name": "Artérias Renal",
+                          "parent": "Parte Abdominal da Aorta",
+                          "text": "As artérias renais são bilaterais, sendo que a direita apresenta maior comprimento comparada à esquerda. Originam-se a partir da porção abdominal da artéria aorta e dirigem-se para a região do hilo renal. São responsáveis pela vascularização dos rins.",
+                          "slug": "arteria-renal"
+                        },
+                        {
+                          "id":21316,
+                          "name": "Artéria Gonadal",
+                          "parent": "Parte Abdominal da Aorta",
+                          "text": "As artérias gonadais são bilaterais, têm origem na parte abdominal da artéria aorta, seguindo um trajeto descendente e atravessando o canal inguinal. No sexo masculino, alcança o escroto e irriga a parte abdominal do ureter, o testículo e o epidídimo. No sexo feminino, alcança o ligamento suspensor do ovário e irriga a parte abdominal do ureter, o ovário e parte da tuba uterina. ",
+                          "slug": "arteria-gonadal"
+                        },
+                        {
+                          "id":21317,
+                          "name": "Artéria Mesentérica Inferior",
+                          "parent": "Parte Abdominal da Aorta",
+                          "text": "A artéria mesentérica inferior tem origem na parte abdominal da aorta, um pouco acima dos seus ramos terminais. Segue um trajeto descendente e, por meio dos ramos que emite, fornece suprimento sanguíneo ao colo descendente e sigmoide do intestino grosso.",
+                          "slug": "arteria-mesenterica-inferiores"
+                        },
+                        {
+                          "id":21318,
+                          "name": "Artérias Sacral Mediana",
+                          "parent": "Parte Abdominal da Aorta",
+                          "text": "A artéria sacral mediana é uma pequena artéria ímpar que surge acima da bifurcação na face posterior da parte abdominal da artéria aorta e descendente anteriormente aos corpos da última ou últimas vértebras lombares, do sacro e do cóccix. Corresponde à extremidade caudal da artéria aorta dorsal embrionária, que diminui de tamanho quando a eminência caudal do embrião desaparece.",
+                          "slug": "arteria-sacral-mediana"
+                        },
+                        {
+                          "id":21319,
+                          "name": "Artérias Ilíaca Comum",
+                          "parent": "Parte Abdominal da Aorta",
+                          "text": "A artéria ilíaca comum é um vaso bilateral, constituindo os ramos terminais da artéria aorta. Tem um trajeto curto, bifurcando-se em artéria ilíaca interna e artéria ilíaca externa,as quais irão irrigar a região pélvica e os membros inferiores, respectivamente.",
+                          "children": [
+                            {
+                              "id":213191,
+                              "name": "Artéria ilíaca Interna",
+                              "parent": "Artérias Ilíaca Comum",
+                              "text": "A artéria ilíaca interna é um dos dois ramos terminais da artéria ilíaca comum, sendo bilateral e seguindo um trajeto descendente e medial em direção à cavidade pélvica. Dessa forma, atua na irrigação da região pélvica, por meio de diversos outros ramos que emite.",
+                              "slug": "arteria-iliaca-intera"
+                            },
+                            {
+                              "id":213192,
+                              "name": "Artéria ilíaca Externa",
+                              "parent": "Artérias Ilíaca Comum",
+                              "text": "A artéria ilíaca externa é um dos dois ramos terminais da artéria ilíaca comum e segue um trajeto descendente e lateral em direção ao membro inferior, até atingir o ligamento inguinal, onde passará a ser chamada de artéria femoral. Atua no transporte de sangue aos membros inferiores. ",
+                              "slug": "arteria-iliaca-externa"
+                            }
+                          ]
+                        },
+                        {
+                          "id":213110,
+                          "name": "Tronco Celíaco",
+                          "parent": "Parte Abdominal da Aorta",
+                          "text": "O tronco celíaco origina-se na região anterior da parte abdominal da aorta e dirige-se inferiormente. Tem um trajeto bastante curto, ramificando-se em artéria hepática comum, artéria gástrica esquerda e artéria esplênica.",
+                          "children": [
+                            {
+                              "id":2131101,
+                              "name": "Artéria Hepática Comum",
+                              "parent": "Tronco Celíaco",
+                              "text": "A artéria hepática comum é uma ramificação do tronco celíaco, segue em direção ao fígado, onde se bifurca em artéria hepática própria, a qual emite os ramos direito e esquerdo. Fornece suprimento sanguíneo para o fígado, para o estômago, para o duodeno e para o pâncreas. ",
+                              "slug": "arteria-hepatica-comum"
+                            },
+                            {
+                              "id":2131102,
+                              "name": "Artéria Gástrica Esquerda",
+                              "parent": "Tronco Celíaco",
+                              "text": "A artéria gástrica esquerda é a menor ramificação do tronco celíaco que alcança a cárdia e percorre a porção superior da curvatura menor do estômago. Esse vaso anastomosa-se com a artéria gástrica direita. Atua na irrigação da curvatura menor do estômago e da parte inferior do esôfago.",
+                              "slug": "arteria-hepatica-esquerda"
+                            },
+                            {
+                              "id":2131103,
+                              "name": "Artéria Esplênica",
+                              "parent": "Tronco Celíaco",
+                              "text": "A veia esplênica é formada a partir de várias tributárias que surgem do hilo esplênico, recebe a veia mesentérica inferior e continua, basicamente, posteriormente ao corpo e à cauda do pâncreas; conecta-se à veia mesentérica superior, assim formando a veia porta. É responsável pela drenagem do baço, fundo e curvatura maior do estômago, pâncreas, colo descendente, colo sigmoide e reto.",
+                              "slug": "arteria-esplenica"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 2214,
+                  "name": "Membro Superior",
+                  "parent": "Artérias",
+                  "text": null,
+                  "children": [
+                    {
+                      "id": 22141,
+                      "name": "Artéria Axiliar",
+                      "parent": "Membro Superior",
+                      "text": "A artéria axilar é uma continuação da artéria subclávia, iniciando a partir da margem lateral da primeira costela e terminando na margem inferior do músculo redondo maior, quando passa a ser chamada de artéria braquial. Fornece suprimento sanguíneo para o membro superior e para a região lateral do tórax.",
+                      "slug": "arteria-axiliar"
+                    },
+                    {
+                      "id": 22142,
+                      "name": "Artéria Braquial",
+                      "parent": "Membro Superior",
+                      "text": "A artéria braquial é continuação da artéria axilar. Inicia a partir da margem inferior do músculo redondo maior e finaliza na região do colo do rádio, onde emite, como ramos terminais, a artéria radial e a artéria ulnar. É a principal responsável pela irrigação de sangue arterial no membro superior. ",
+                      "children": [
+                        {
+                          "id": 221421,
+                          "name": "Artéria Radial",
+                          "parent": "Artéria Braquial",
+                            "text": "A artéria radial é um dos dois ramos terminais da artéria braquial, possuindo um tamanho um pouco menor, em relação ao outro ramo (artéria ulnar); e segue um trajeto lateral e inferior no antebraço, sobre a região do osso rádio. Na mão, arqueia-se dorsalmente, sendo continuada pelo arco palmar profundo e emitindo o ramo superficial.",
+                          "children": [
+                            {
+                              "id": 2214211,
+                              "name": "Arco Palmar Profundo",
+                              "parent": "Artéria Radial",
+                              "text": "O arco palmar profundo tem origem a partir da artéria radial e é completado, na sua porção medial, pelo ramo palmar profundo da artéria ulnar.",
+                              "slug": "arco-palmar-profundo"
+                            }
+                          ]
+                        },
+                        {
+                          "id": 221422,
+                          "name": "Artéria Ulnar",
+                          "parent": "Artéria Braquial",
+                          "text": "A artéria ulnar é o maior ramo terminal da artéria braquial e segue um trajeto medial e descendente no antebraço, na região do osso ulna. Na mão, é continuado pelo arco palmar superficial e emite o ramo palmar profundo.",
+                          "children": [
+                            {
+                              "id": 2214221,
+                              "name": "Arco Palmar Superficial",
+                              "parent": "Artéria Ulnar",
+                              "text": "A artéria ulnar é o maior ramo terminal da artéria braquial e segue um trajeto medial e descendente no antebraço, na região do osso ulna. Na mão, é continuado pelo arco palmar superficial e emite o ramo palmar profundo.",
+                              "slug": "arco-palmar-superficial"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 1216,
+                  "name": "Membro Inferior",
+                  "parent":"Artérias",
+                  "text": null,
+                  "children": [
+                    {
+                      "id": 12161,
+                      "name": "Artéria Femoral",
+                      "parent": "Membro Inferior",
+                      "text": "A artéria femoral origina-se como sequência da artéria ilíaca externa, a partir do ligamento inguinal, e termina na região posterior do joelho, sendo continuada pela artéria poplítea. Emite a artéria femoral profunda e é responsável pela irrigação da região anterior e ântero-medial da coxa.",
+                      "children": [
+                        {
+                          "id": 121611,
+                          "name": "Artéria Femoral Profunda",
+                          "parent": "Artéria Femoral",
+                          "text": "A artéria femoral profunda surge lateralmente ou posteriormente à artéria femoral, sendo seu maior ramo, entre 1 e 5 cm abaixo do ligamento inguinal. Fornece suprimento sanguíneo a toda a musculatura anterior da coxa.",
+                          "slug": "arco-femoral-profunda"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 12162,
+                      "name": "Artéria Poplítea",
+                      "parent": "Membro Inferior",
+                      "text": "A artéria poplítea surge como continuação da artéria femoral, atravessando a fossa poplítea, e termina bifurcando-se em artéria tibial anterior e artéria tibial posterior. Por meio dos ramos que emite, irriga as regiões lateral e medial do joelho.",
+                      "children": [
+                        {
+                          "id": 121621,
+                          "name": "Artéria Tibial Anterior",
+                          "parent": "Artéria Poplítea",
+                          "text": "A artéria tibial anterior origina-se pela divisão da artéria poplítea, terminando na região da articulação do tornozelo, sendo continuada pela artéria dorsal do pé. Segue um trajeto descendente entre a fíbula e a tíbia e irriga a região anterior da perna.",
+                          "children": [
+                            {
+                              "id": 1216211,
+                              "name": "Artéria Dorsal do pé",
+                              "parent": "Artéria Tibial Anterior",
+                              "text": "A artéria dorsal do pé inicia na região anterior da articulação do tornozelo, como continuação da artéria tibial anterior. Apresenta um trajeto ântero-medial na região dorsal do pé e emite ramos, atuando na irrigação dos músculos dorsais do pé.",
+                              "slug": "arteria-dorsal-do-pe"
+                            }
+                          ]
+                        },
+                        {
+                          "id": 221422,
+                          "name": "Artéria Tibial Posterior",
+                          "parent": "Artéria Poplítea",
+                          "text": "A artéria tibial posterior surge da bifurcação da artéria poplítea e termina na região inferior ao calcâneo, emitindo a artéria plantar medial e a artéria plantar lateral. Desloca-se posteriormente na região da tíbia, emitindo a artéria fibular, sendo responsável pela irrigação posterior e lateral da perna.",
+                          "children": [
+                            {
+                              "id": 2214221,
+                              "name": "Artéria Fibular",
+                              "parent": "Artéria Tibial Posterior",
+                              "text": "A artéria fibular surge como o maior ramo da artéria tibial posterior e termina na região próxima do pé. Apresenta um sentido oblíquo em direção à fíbula na região posterior da perna, e segue de forma lateral e paralela à artéria tibial posterior. E fornece suprimento sanguíneo para as regiões posterior e lateral da perna.",
+                              "slug": "arteria-fibular"
+                            },
+                            {
+                              "id": 2214222,
+                              "name": "Artéria Plantar Medial",
+                              "parent": "Artéria Tibial Posterior",
+                              "text": "A artéria plantar medial origina-se da artéria tibial posterior, sendo seu menor ramo terminal. Segue um trajeto anteromedial na planta do pé e emite ramos, que atuam na formação do arco plantar superficial. Irriga os músculos do hálux e a pele medial do dorso do pé. ",
+                              "slug": "arteria-planar-medial"
+                            },
+                            {
+                              "id": 2214223,
+                              "name": "Artéria Plantar Lateral",
+                              "parent": "Artéria Tibial Posterior",
+                              "text": "A artéria plantar lateral surge como o maior ramo da artéria tibial posterior. Tem um sentido anterolateral na planta do pé, arqueando-se medialmente, auxiliando na formação do arco plantar profundo junto de um ramo da artéria dorsal do pé. Atua na irrigação da musculatura lateral do pé e das porções distais dos dedos, por meio dos ramos que emite.",
+                              "slug": "arteria-planar-lateral"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 122,
+              "name": "Veias",
+              "parent": "Vasos Sanguíneos",
+              "text": "São vasos de parede fina, de maior diâmetro e em maior número no corpo humano, podendo ser duplas ou múltiplas, quando comparadas às artérias. São responsáveis por reconduzir o sangue não oxigenado vindo dos leitos capilares em direção ao coração, dessa forma possuem uma aparência de cor azul escura. Destacando que, as veias pulmonares têm um comportamento incomum, visto que conduzem sangue oxigenado dos pulmões para o coração. Podem ser divididas, de acordo com a sua espessura, em: vênulas, que são as menores, responsáveis por drenar os leitos capilares e que se unem, formando as pequenas veias; veias médias, que drenam plexos nervosos, que acompanham as artérias médias e que podem apresentar válvulas venosas, as quais impossibilitam o fluxo contrário; e grandes veias, as quais se definem por amplos feixes de músculo liso e por uma túnica externa bem definida.",
+              "children": [
+                {
+                  "id": 1221,
+                  "name": "Cabeça e Pescoço",
+                  "parent": "Veias",
+                  "children": [
+                    {
+                      "id": 12211,
+                      "name": "Veia Jugular Interna",
+                      "parent": "Cabeça e Pescoço",
+                      "text": "A veia jugular interna pode ser considerada a principal estrutura venosa do pescoço. Inicia como continuação do seio sigmoide, tendo o formato de “S”, e segue inferiormente na região do pescoço. Termina ao nível da primeira vértebra torácica, onde une-se à veia subclávia para formar a veia braquiocefálica, posteriormente à extremidade medial da clavícula. Atua na drenagem do sangue do encéfalo, da região anterior da face, das vísceras cervicais e dos músculos profundos do pescoço.",
+                      "slug": "veia-jugular-interna"
+                    },
+                    {
+                      "id": 12212,
+                      "name": "Veia Jugular Externa",
+                      "parent": "Cabeça e Pescoço",
+                      "text": "A veia jugular externa inicia próximo ao ângulo da mandíbula, logo abaixo da orelha, pela união da divisão posterior da veia retromandibular com a veia auricular posterior; e atravessa obliquamente o músculo esternocleidomastoideo, seguindo inferiormente à região cervical lateral, terminando na veia subclávia. É responsável por irrigar a grande parte do couro cabeludo e a região lateral da face.",
+                      "slug": "veia-jugular-externa"
+                    },
+                    {
+                      "id": 12213,
+                      "name": "Veia Facial",
+                      "parent": "Cabeça e Pescoço",
+                      "text": "A veia facial surge a partir da margem inferior da órbita e, também, como continuação da veia angular. Segue um trajeto descendente à margem lateral do nariz, direcionando-se obliquamente através da face para cruzar a margem inferior da mandíbula, recebendo comunicação da veia retromandibular. Termina na veia jugular interna oposta ou abaixo do nível do osso hioide. Drena a região anterior do couro cabeludo e fronte, as pálpebras, a parte externa do nariz, a região anterior da bochecha, os lábios, o queixo e a glândula submandibular. ",
+                      "slug": "veia-facial"
+                    },
+                    {
+                      "id": 12214,
+                      "name": "Veia Retromandibular",
+                      "parent": "Cabeça e Pescoço",
+                      "text": "A veia retromandibular, um vaso profundo da face, é formada anteriormente à orelha através da união da veia temporal superficial e da veia maxilar, seguindo um trajeto posterior e profundamente ao ramo da mandíbula no interior da substância da parótida; comunica-se inferiormente com a veia facial e une-se à veia auricular posterior, assim forma a veia jugular externa. Irriga a glândula parótida e o músculo masseter.",
+                      "slug": "veia-retromandibular"
+                    },
+                    {
+                      "id": 12215,
+                      "name": "Veia Temporal Suerficial",
+                      "parent": "Cabeça e Pescoço",
+                      "text": "A veia temporal superficial inicia a partir do amplo plexo venoso na lateral do couro cabeludo e ao longo do arco zigomático, sendo que suas tributárias parietal e frontal unem-se anteriormente à orelha. Cruza a raiz temporal do arco zigomático e liga-se à veia maxilar posteriormente ao colo da mandíbula a fim de formar a veia retromandibular. É responsável por irrigar a região lateral do couro cabeludo, a face superficial do músculo temporal e a orelha externa.",
+                      "slug": "veia-temporal-superficial"
+                    }
+                  ]
+                },
+                {
+                  "id": 1222,
+                  "name": "Tórax",
+                  "parent": "Veias",
+                  "children": [
+                    {
+                      "id": 12221,
+                      "name": "Veias Pulmonares",
+                      "parent": "Tórax",
+                      "text": "As veias pulmonares são em número de quatro, sendo duas esquerdas (veia pulmonar superior esquerda e veia pulmonar inferior esquerda) e duas direitas (veia pulmonar superior direita e veia pulmonar inferior direita). Surgem a partir de veias segmentares dos segmentos pulmonares, atravessam o hilo e seguem em direção ao átrio esquerdo do coração. Dessa forma, são responsáveis pelo transporte de sangue oxigenado dos lobos correspondentes de cada pulmão para o coração.",
+                      "slug": "veias-pulmonares"
+                    },
+                    {
+                      "id": 12222,
+                      "name": "Veia Cava Superior",
+                      "parent": "Tórax",
+                      "text": "A veia cava superior surge na região do mediastino superior póstero-lateral à porção ascendente da artéria aorta, a partir das veias subclávias direita e esquerda; e percorre um trajeto inferiormente, terminando ao nível da terceira cartilagem costal, entrando no átrio direito do coração. Atua na condução do sangue de todas as estruturas superiores ao diafragma, com exceção dos pulmões e do coração.",
+                      "slug": "veia-cava-superior"
+                    },
+                    {
+                      "id": 12223,
+                      "name": "Veia Braquiocefálica",
+                      "parent": "Tórax",
+                      "text": "A veia braquiocefálica forma-se posteriormente à articulação esternoclavicular a partir da união da veia jugular interna e da veia subclávia, e termina ao nível da margem inferior da primeira cartilagem costal, quando atua na formação da veia cava superior. Conduz sangue da cabeça, do pescoço e dos membros superiores para o átrio direito. Destacando que, o comprimento da veia braquiocefálica esquerda é maior do que o dobro da direita.",
+                      "slug": "veia-branquiocefalica"
+                    },
+                    {
+                      "id": 12224,
+                      "name": "Veia Jugular Interna",
+                      "text": "A veia jugular interna pode ser considerada a principal estrutura venosa do pescoço. Inicia como continuação do seio sigmoide, tendo o formato de “S”, e segue inferiormente na região do pescoço. Termina ao nível da primeira vértebra torácica, onde une-se à veia subclávia para formar a veia braquiocefálica, posteriormente à extremidade medial da clavícula. Atua na drenagem do sangue do encéfalo, da região anterior da face, das vísceras cervicais e dos músculos profundos do pescoço.",
+                      "slug": "veia-jugular-interna"
+                    },
+                    {
+                      "id": 12225,
+                      "name": "Veia Subclávia",
+                      "parent": "Tórax",
+                      "text": "A veia subclávia é continuação da veia axilar, inicia na margem lateral da primeira costela e termina ao unir-se à veia jugular interna, assim formando a veia braquiocefálica.  É responsável pelo envio de sangue para o membro superior, sendo seu principal canal venoso de drenagem.",
+                      "slug": "veia-subclavia"
+                    },
+                    {
+                      "id": 12226,
+                      "name": "Veia Ázigo",
+                      "parent": "Tórax",
+                      "text": "A veia ázigo surge na região do mediastino superior, tendo origem nas raízes provenientes da face posterior da veia cava inferior normalmente; passa próximo das faces direitas dos corpos de oito vértebras torácicas inferiores, curva-se sobre o pulmão direito e une-se à veia cava superior. Constitui uma via colateral entre a veia cava superior e a inferior e drena sangue das paredes posteriores do tórax e do abdome. ",
+                      "slug": "veia-azigo"
+                    },
+                    {
+                      "id": 12227,
+                      "name": "Veia Intercostais",
+                      "parent": "Tórax",
+                      "text": "As veias intercostais são em número de 11, posicionam-se superiormente aos sulcos das costelas, sendo formadas pela anastomose entre as veias intercostais anteriores (tributárias das veias torácicas internas) e as veias intercostais posteriores. Salienta-se que, as veias intercostais posteriores do 1° espaço intercostal entram nas veias braquiocefálicas direita e esquerda; já as do 2° e 3° espaços unem-se para formar a veia intercostal superior; enquanto as veias do 4° ao 11° espaços finalizam no sistema venoso ázigo/hemiázigo, conduzindo sangue até a veia cava superior. De forma geral, drenam sangue para as veias subclávia, ázigo, hemiázigo e cava superior.",
+                      "slug": "veia-intercostais"
+                    },
+                    {
+                      "id": 12228,
+                      "name": "Veia Subcostal",
+                      "parent": "Tórax",
+                      "text": "A veia subcostal inicia na região abaixo da última veia intercostal e sobe levemente, unindo-se à veia lombar ascendente. Considerando que a união do lado esquerdo forma a veia hemiázigo ao nível da nona vértebra torácica, enquanto a união do lado direito forma a veia ázigo ao nível da oitava vértebra torácica.",
+                      "slug": "veia-subcostal"
+                    }
+                  ]
+                },
+                {
+                  "id": 1223,
+                  "name": "Membro Superior",
+                  "parent": "Veias",
+                  "children": [
+                    {
+                      "id": 12231,
+                      "name": "Veia Superficiais",
+                      "parent": "Membro Superior",
+                      "text": "As veias superficiais originam-se na tela subcutânea da porção dorsal da mão. Drenam o sangue da circulação cutânea e servem também como via de descarga auxiliar da circulação profunda. Não acompanham artérias.",
+                      "children": [
+                        {
+                          "id": 122311,
+                          "name": "Veia Cefálica",
+                          "parent": "Veia Superficiais",
+                          "text": "A veia cefálica emerge na tela subcutânea a partir da face lateral da rede venosa dorsal da mão e segue ao longo da margem lateral do punho e da face anterolateral da região proximal do antebraço e do braço, sendo que anteriormente ao cotovelo, comunica-se com a veia intermédia do cotovelo; ascende pelo sulco deltopeitoral e une-se à porção terminal da veia axilar. Atua na drenagem superficial lateral do antebraço e braço. ",
+                          "slug": "veia-cefalica"
+                        },
+                        {
+                          "id": 122312,
+                          "name": "Veia Brasílica",
+                          "parent": "Veia Superficiais",
+                          "text": "A veia basílica emerge na tela subcutânea a partir da extremidade medial da rede venosa dorsal da mão através da face medial do antebraço e da porção inferior do braço, ascende paralelamente à artéria braquial até a axila, quando se une com as veias acompanhantes da artéria axilar a fim de formar a veia axilar. Atua na drenagem superficial medial do antebraço e braço.",
+                          "slug": "veia-brasilica"
+                        },
+                        {
+                          "id": 122313,
+                          "name": "Veia Intermédia do Cotovelo",
+                          "parent": "Veia Superficiais",
+                          "text": "A veia intermédia do cotovelo inicia a partir da veia cefálica, com um trajeto oblíquo e proximal pela fossa cubital na face anterior do cotovelo, e liga-se à veia basílica.",
+                          "slug": "veia-intermedia-do-cotovelo"
+                        },
+                        {
+                          "id": 122314,
+                          "name": "Veia Intermédia do Antebraço",
+                          "parent": "Veia Superficiais",
+                          "text": "A veia intermédia do antebraço surge na base dorsal do polegar, curva-se na face lateral do punho e ascende no centro da porção anterior do antebraço entre a veia cefálica e a veia basílica. Considerando que, por vezes, divide-se em uma veia intermédia basílica, unindo-se à veia basílica, e em uma veia intermédia cefálica, unindo-se à veia cefálica.",
+                          "slug": "veia-intermedia-do-antebraco"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 12232,
+                      "name": "Veia Profundas",
+                      "parent": "Membro Superior",
+                      "text": "As veias profundas localizam-se internamente à fáscia muscular, ocorrendo aos pares, normalmente. Podem, ou não, acompanhar as artérias.",
+                      "children": [
+                        {
+                          "id": 122321,
+                          "name": "Veia Axiliar",
+                          "parent": "Veia Profundas",
+                          "text": "A veia axilar inicia a partir da união entre a veia braquial e a veia basílica na margem inferior do músculo redondo maior e finaliza na margem lateral da primeira costela, quando se torna veia subclávia. Constitui canal de drenagem do membro superior e da parede superolateral do tórax.",
+                          "slug": "veia-axiliar"
+                        },
+                        {
+                          "id": 122322,
+                          "name": "Veia Branquial",
+                          "parent": "Veia Profundas",
+                          "text": "A veia braquial inicia na região do cotovelo por meio da união da veia ulnar com a radial e termina unindo-se à veia basílica a fim de formar a veia axilar. Geralmente aparece aos pares, sendo um importante canal de drenagem profunda do antebraço.",
+                          "slug": "veia-branquial"
+                        },
+                        {
+                          "id": 122323,
+                          "name": "Veia Ulnar",
+                          "parent": "Veia Profundas",
+                          "text": "A veia ulnar origina-se a partir da região medial do arco palmar venoso profundo, ascende no antebraço e liga-se à veia radial para forma a veia braquial. Junto da veia radial, geralmente, ocorre aos pares, formando duas veias braquiais. Atua na drenagem medial do antebraço. ",
+                          "slug": "veia-ulnar"
+                        },
+                        {
+                          "id": 122324,
+                          "name": "Veia Radial",
+                          "parent": "Veia Profundas",
+                          "text": "A veia radial origina-se a partir da região lateral do arco palmar venoso profundo, ascende no antebraço e liga-se à veia ulnar para forma a veia braquial. Junto da veia ulnar, geralmente, ocorre aos pares, formando duas veias braquiais.  Atua na drenagem lateral do antebraço.",
+                          "slug": "veia-radial"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 1224,
+                  "name": "Membro Inferior",
+                  "parent": "Veias",
+                  "children": [
+                    {
+                      "id": 12241,
+                      "name": "Veias Superficiais",
+                      "parent": "Membro Inferior",
+                      "text": "As veias superficiais situam-se no tecido subcutâneo e dirigem-se independente de artérias correspondentes.",
+                      "children": [
+                        {
+                          "id": 122411,
+                          "name": "Veia Safena Magna",
+                          "parent": "Veias Superficiais",
+                          "text": "A veia safena magna origina-se pela união da veia dorsal do hálux e do arco venoso dorsal do pé, emerge anteriormente até o maléolo medial, segue posteriormente ao côndilo medial do fêmur, une-se com a veia safena parva e desemboca na veia femoral. Junto da veia safena parva, é a principal via de drenagem superficial do membro inferior, incluindo a região da virilha e da parede abdominal inferior.",
+                          "slug": "veia-safena-magna"
+                        },
+                        {
+                          "id": 122412,
+                          "name": "Veia Safena Parva",
+                          "parent": "Veias Superficiais",
+                          "text": "A veia safena parva inicia na face lateral do pé, por meio da união da veia dorsal do quinto dedo com o arco venoso dorsal, ascende posteriormente ao maléolo lateral, inclina-se em direção à linha mediana da fíbula e alcança a fossa poplítea, drenando para a veia poplítea.  Responde pela drenagem superficial do pé e da face posterior da perna.",
+                          "slug": "veia-safena-parva"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 12242,
+                      "name": "Veia Profundas",
+                      "parent": "Membro Inferior",
+                      "text": "As veis profundas localizam-se profundamente à fáscia muscular e acompanham suas artérias correspondentes. ",
+                      "children": [
+                        {
+                          "id": 122421,
+                          "name": "Veia Femoral",
+                          "parent": "Veia Profundas",
+                          "text": "A veia femoral inicia como continuação da veia poplítea, ascende pelo canal dos adutores, penetra na bainha femoral e termina posteriormente ao ligamento inguinal, tornando-se a veia ilíaca externa. Geralmente aparece aos pares, sendo um importante canal de drenagem profunda do membro inferior e órgãos genitais externos.",
+                          "slug": "veia-femoral"
+                        },
+                        {
+                          "id": 122422,
+                          "name": "Veia Femoral Profunda",
+                          "parent": "Veia Profundas",
+                          "text": "A veia femoral profunda surge pela união de três ou quatro veias perfurantes e termina ao penetrar na veia femoral cerca de 8cm antes do ligamento inguinal.",
+                          "slug": "veia-femoral-profunda"
+                        },
+                        {
+                          "id": 122423,
+                          "name": "Veia Poplítea",
+                          "parent": "Veia Profundas",
+                          "text": "A veia poplítea inicia na margem distal do músculo poplíteo como continuação da veia tibial posterior e, ao ascender, atravessando o hiato dos adutores, torna-se a veia femoral. Atua na drenagem da articulação do joelho.",
+                          "slug": "veia-poplitea"
+                        },
+                        {
+                          "id": 122424,
+                          "name": "Veia Tibial Anterior",
+                          "parent": "Veia Profundas",
+                          "text": "A veia tibial anterior origina-se a partir do arco venoso dorsal, ascende pelo músculo tibial anterior e une-se à veia tibial posterior, formando a veia poplítea. Drena a face dorsal do pé, a face anterior da perna, assim como as articulações talocrural, tibiofibular e do joelho.",
+                          "slug": "veia-tibial-anterior"
+                        },
+                        {
+                          "id": 122425,
+                          "name": "Veia Tibial Posterior",
+                          "parent": "Veia Profundas",
+                          "text": "A veia tibial posterior inicia posteriormente ao maléolo medial na união da veia plantar medial e da veia plantar lateral, ascende pela perna e une-se à veia tibial anterior, próximo à porção distal do músculo poplíteo, formando a veia poplítea. Drena a face plantar do pé, além da porção posterior e lateral da perna.",
+                          "slug": "veia-tibial-posterior"
+                        },
+                        {
+                          "id": 122426,
+                          "name": "Veia Fibular",
+                          "parent": "Veia Profundas",
+                          "text": "A veia fibular origina-se na região do maléolo lateral, ascende verticalmente e termina na veia tibial posterior. Drena a porção posterior da perna.",
+                          "slug": "veia-fibular"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": 1225,
+                  "name": "Abdômen",
+                  "parent": "Veias",
+                  "children": [
+                    {
+                      "id": 12251,
+                      "name": "Veia Cava Inferior",
+                      "parent": "Abdômen",
+                      "text": "A veia cava inferior inicia anteriormente à quinta vértebra lombar através da união das veias ilíaca comum direita e ilíaca comum esquerda, ascende à direita dos corpos da terceira, quarta e quinta vértebras lombares, atravessa o forame da veia cava no diafragma e termina no átrio direito. Sua ação é recolher o sangue pouco oxigenado dos membros inferiores e sangue não portal do abdome e da pelve.",
+                      "slug": "veia-cava-inferior"
+                    },
+                    {
+                      "id": 12252,
+                      "name": "Veia Hepáticas",
+                      "parent": "Abdômen",
+                      "text": "As veias hepáticas - direita, intermédia e esquerda - surgem a partir da união das veias coletoras do fígado e seguem até a veia cava inferior logo abaixo do diafragma. Dessa forma, atuam na drenagem do fígado.",
+                      "slug": "veia-hepaticas"
+                    },
+                    {
+                      "id": 12253,
+                      "name": "Veia Gástrica Esquerda",
+                      "parent": "Abdômen",
+                      "text": "A veia gástrica esquerda inicia a partir de anastomoses formadas ao longo da porção esquerda da curvatura menor do estômago e drenam em direção à veia porta. Assim, auxilia na drenagem do estômago, parte terminal do esôfago, fígado, vesícula biliar, baço, pâncreas e intestino. ",
+                      "slug": "veia-gastrica-esquerda"
+                    },
+                    {
+                      "id": 12254,
+                      "name": "Veia Gástrica Direita",
+                      "parent": "Abdômen",
+                      "text": "A veia gástrica direita segue um trajeto descendente ao longo da porção direita da curvatura menor do estômago e desemboca na veia esplênica, drenando em direção à veia porta. Atua na drenagem da parte abdominal do esôfago, curvatura menor do estômago e duodeno.",
+                      "slug": "veia-gastrica-direita"
+                    },
+                    {
+                      "id": 12255,
+                      "name": "Veia Porta",
+                      "parent": "Abdômen",
+                      "text": "A veia porta forma-se, anteriormente à veia cava inferior e posteriormente ao colo do pâncreas, por meio da união da veia mesentérica superior e veia esplênica, as quais ainda podem unir-se à veia mesentérica inferior. Recebe sangue pouco oxigenado – mas, rico em nutriente -  da parte abdominal do sistema digestório, incluindo vesícula biliar, pâncreas e baço, e guia até o fígado.",
+                      "slug": "veia-porta"
+                    },
+                    {
+                      "id": 12256,
+                      "name": "Veia Esplênica",
+                      "parent": "Abdômen",
+                      "text": "A veia esplênica é formada a partir de várias tributárias que surgem do hilo esplênico, recebe a veia mesentérica inferior e continua, basicamente, posteriormente ao corpo e à cauda do pâncreas; conecta-se à veia mesentérica superior, assim formando a veia porta. É responsável pela drenagem do baço, fundo e curvatura maior do estômago, pâncreas, colo descendente, colo sigmoide e reto.",
+                      "slug": "veia-esplenica"
+                    },
+                    {
+                      "id": 12257,
+                      "name": "Veia Mesentérica Superior",
+                      "parent": "Abdômen",
+                      "text": "A veia mesentérica superior inicia na raiz do mesentério (prega de peritônio que fixa o jejuno e o íleo à parede posterior do abdome) por várias tributárias e finaliza na região posterior ao colo do pâncreas, onde se liga à veia esplênica, formando a veia porta. Atua na drenagem do jejuno, íleo, ceco, apêndice, colo descendente e colo transverso.",
+                      "slug": "veia-mesenterica-superior"
+                    },
+                    {
+                      "id": 12258,
+                      "name": "Veia Mesentérica Inferior",
+                      "parent": "Abdômen",
+                      "text": "A veia mesentérica inferior origina-se a partir da veia retal superior, recebe várias tributárias e finaliza na veia esplênica, próximo da junção dessa com a veia porta.  Responde pela drenagem do colo descendente e do colo sigmoide do intestino grosso.",
+                      "slug": "veia-mesenterica-inferior"
+                    },
+                    {
+                      "id": 12259,
+                      "name": "Veia Renal",
+                      "parent": "Abdômen",
+                      "text": "A veia renal surge a partir de veias segmentares do rim e segue um trajeto em direção à veia cava inferior, destacando que a veia renal esquerda é mais longa do que a direita. Responde pela drenagem do rim.",
+                      "slug": "veia-renal"
+                    },
+                    {
+                      "id": 122510,
+                      "name": "Veia Sacral Mediana",
+                      "parent": "Abdômen",
+                      "text": "A veia sacral mediana inicia na cavidade pélvica e ascendem verticalmente até atingir a bifurcação que forma a veia ilíaca comum esquerda e direita, que formam a veia cava inferior. Drena a região do sacro e do cóccix. ",
+                      "slug": "veia-sacral-mediana"
+                    },
+                    {
+                      "id": 122511,
+                      "name": "Veia Ilíaca Comum",
+                      "parent": "Abdômen",
+                      "text": "A veia ilíaca comum forma-se pela união da veia ilíaca interna e da veia ilíaca externa e emerge formando a veia cava inferior, ao nível da quarta e quinta vértebras lombares. Drena o membro inferior e a pelve.",
+                      "slug": "veia-iliaca-comum"
+                    },
+                    {
+                      "id": 122512,
+                      "name": "Veia Ilíaca Interna",
+                      "parent": "Abdômen",
+                      "text": "A veia ilíaca interna origina-se superiormente ao forame isquiático, localiza-se posteroinferiormente às artérias ilíacas internas e emerge, unindo-se à veia ilíaca externa, formando a veia ilíaca comum. Atua na drenagem da pelve e da região glútea.",
+                      "slug": "veia-iliaca-interna"
+                    },
+                    {
+                      "id": 122513,
+                      "name": "Veia Ilíaca Externa",
+                      "parent": "Abdômen",
+                      "text": "A veia ilíaca externa surge como continuação da veia femoral a partir do ligamento inguinal e segue um trajeto superior, unindo-se à veia ilíaca interna, formando a veia ilíaca comum.  Atua na drenagem da parede inferior do abdome.",
+                      "slug": "veia-iliaca-externa"
+                    },
+                    {
+                      "id": 122514,
+                      "name": "Veia Gonadal",
+                      "parent": "Abdômen",
+                      "text": "A veia gonadal no sexo masculino, também chamada de <i> veia testicular, surge a partir do plexo venoso pampiniforme, sendo que a veia testicular direita ascende em direção à veia cava inferior, enquanto a veia testicular esquerda ascende e penetra na veia renal esquerda, assim essa é mais longa do que a direita. Enquanto, no sexo feminino, também chamada de veia ovárica, forma um plexo venoso pampiniforme, as quais se fundem para formar uma única veia ovárica, que deixa a pelve menor com a artéria ovárica. A veia ovárica direita ascende para entrar na veia cava inferior e a veia ovárica esquerda drena para a veia renal esquerda. De maneira geral, a veia gonadal drena testículos, epidídimos, ductos deferentes, ovários e ureteres.",
+                      "slug": "veia-gonadal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]

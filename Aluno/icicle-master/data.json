@@ -1,0 +1,546 @@
+{
+    "name": "Sistema Cardiovascular",
+    "value": 5,
+    "children": [
+    {
+        "name": "Coração",
+        "value": 10
+    },
+    {
+        "name": "Vasos Sanguíneos",
+        "value": 0,
+        "children": [
+        {
+            "name": "Artérias",
+            "value": 10,
+            "children": [
+            {
+                "name": "Cabeça e Pescoço",
+                "value": 10,
+                "children": [
+                {
+                    "name": "Artéria Carótida Comum",
+                    "value": 8,
+                    "children": [
+                    {
+                        "name": "Artéria Carótida Externo",
+                        "value": 10,
+                        "children": [
+                            {
+                                "name": "Artéria Temporal Superficial",
+                                "value": 10
+                            },
+                            {
+                                "name": "Artéria Maxiliar",
+                                "value": 5
+                            },
+                            {
+                                "name": "Artéria Facial",
+                                "value": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Artéria Carótida Interno",
+                        "value": 6
+                    }
+                    ]
+                }
+                ]
+            },
+            {
+                "name": "Tórax",
+                "value": 8,
+                "children": [
+                {
+                    "name": "Tronco Pulmonar",
+                    "value": 5,
+                    "children": [
+                    {
+                        "name": "Artéria Pulmonar Direita",
+                        "value": 9
+                    },
+                    {
+                        "name": "Artéria Pulmonar Esquerda",
+                        "value": 11
+                    }
+                    ]
+                },
+                {
+                    "name": "Parte Ascendente da Aorta",
+                    "value": 10,
+                    "children": [
+                    {
+                        "name": "Artéria Coronária Esquerda",
+                        "value": 11,
+                        "children": [
+                        {
+                            "name": "Ramo Interventricular Anterior",
+                            "value": 3
+                        },
+                        {
+                            "name": "Ramo Circunflexo",
+                            "value": 5
+                        }
+                        ]
+                    },
+                    {
+                        "name": "Artéria Coronária Direita",
+                        "value": 16,
+                        "children": [
+                        {
+                            "name": "Ramo Interventricular Posterior",
+                            "value": 12
+                        }
+                        ]
+                    }
+                    ]
+                },
+                {
+                    "name": "Arco da Aorta",
+                    "value": 18,
+                    "children": [
+                    {
+                        "name": "Artéria Subclávia Esquerda",
+                        "value": 7
+                    },
+                    {
+                        "name": "Artéria Subclávia Comum Esquerda",
+                        "value": 10
+                    },
+                    {
+                        "name": "Tronco Branquiocafélico",
+                        "value": 8,
+                        "children": [
+                        {
+                            "name": "Artéria Subclávia Direita",
+                            "value": 7       
+                        },
+                        {
+                            "name": "Artéria Subclávia Comum Direita",
+                            "value": 9
+                        }
+                        ]
+                    }
+                    ]
+                },
+                {
+                    "name": "Parte Torácica da Aorta",
+                    "value": 8,
+                    "children": [
+                    {
+                        "name": "Artéria Intercostais Posteriores",
+                        "value": 10
+                    },
+                    {
+                        "name": "Artéria Esofágicas",
+                        "value": 8
+                    },
+                    {
+                        "name": "Artéria Brônquicas",
+                        "value": 3
+                    }
+                    ]
+                }
+                ]
+            },
+            {
+                "name": "Abdômen",
+                "value": 19,
+                "children": [
+                {
+                    "name": "Parte Abdominal da Aorta",
+                    "value": 15,
+                    "children": [
+                    {
+                        "name": "Artérias Subcostais",
+                        "value": 2
+                    },
+                    {
+                        "name": "Artérias Frênicas Inferiores",
+                        "value": 5
+                    },
+                    {
+                        "name": "Artéria Mesestérica Superior",
+                        "value": 6
+                    },
+                    {
+                        "name": "Artérias Lombares",
+                        "value": 1
+                    },
+                    {
+                        "name": "Artérias Renal",
+                        "value": 6
+                    },
+                    {
+                        "name": "Artéria Gonadal",
+                        "value": 5
+                    },
+                    {
+                        "name": "Artéria Mesentérica Inferior",
+                        "value": 10
+                    },
+                    {
+                        "name": "Artérias Sacral Mediana",
+                        "value": 6
+                    },
+                    {
+                        "name": "Artérias Ilíaca Comum",
+                        "value": 12,
+                        "children": [
+                        {
+                            "name": "Artéria ilíaca Interna",        
+                            "value": 10
+                        },
+                        {
+                            "name": "Artéria ilíaca Externa",
+                            "value": 2
+                        }
+                        ]
+                    },
+                    {
+                        "name": "Tronco Celíaco",
+                        "value": 15,
+                        "children": [
+                        {
+                            "name": "Artéria Hepática Comum",
+                            "value": 6
+                        },
+                        {
+                            "name": "Artéria Gástrica Esquerda",
+                            "value": 9
+                        },
+                        {
+                            "name": "Artéria Esplênica",
+                            "value": 4
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            },
+            {
+                "name": "Membro Superior",
+                "value": 17,
+                "children": [
+                {
+                    "name": "Artéria Axiliar",
+                    "value": 10
+                },
+                {
+                    "name": "Artéria Braquial",
+                    "value": 10,
+                    "children": [
+                    {
+                        "name": "Artéria Radial",
+                        "value": 5,
+                        "children": [
+                        {
+                            "name": "Arco Palmar Profundo",
+                            "value": 8
+                        }
+                        ]
+                    },
+                    {
+                        "name": "Artéria Ulnar",
+                        "value": 10,
+                        "children": [
+                        {
+                            "name": "Arco Palmar Superficial",
+                            "value": 6
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            },
+            {
+                "name": "Membro Inferior",
+                "value": 18,
+                "children": [
+                {
+                    "name": "Artéria Femoral",
+                    "value": 10,
+                    "children": [
+                    {
+                        "name": "Artéria Femoral Profunda",
+                        "value": 10
+                    }
+                    ]
+                },
+                {
+                    "name": "Artéria Poplítea",
+                    "value": 12,
+                    "children": [
+                    {
+                        "name": "Artéria Tibial Anterior",
+                        "value": 10,
+                        "children": [
+                        {
+                            "name": "Artéria Dorsal do pé",
+                            "value": 3
+                        }
+                        ]
+                    },
+                    {
+                        "name": "Artéria Tibial Posterior",
+                        "value": 10,
+                        "children": [
+                        {
+                            "name": "Artéria Fibular",
+                            "value": 9
+                        },
+                        {
+                            "name": "Artéria Plantar Medial",
+                            "value": 8
+                        },
+                        {
+                            "name": "Artéria Plantar Lateral",
+                            "value": 3
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "Veias",
+            "value": 18,
+            "children": [
+            {
+                "name": "Cabeça e Pescoço",
+                "value": 10,
+                "children": [
+                {
+                    "name": "Veia Jugular Interna",
+                    "value": 11
+                },
+                {
+                    "name": "Veia Jugular Externa",
+                    "value": 5
+                },
+                {
+                    "name": "Veia Facial",
+                    "value": 8
+                },
+                {
+                    "name": "Veia Retromandibular",
+                    "value": 10
+                },
+                {
+                    "name": "Veia Temporal Suerficial",
+                    "value": 11
+                }
+                ]
+            },
+            {
+                "name": "Tórax",
+                "value": 18,
+                "children": [
+                {
+                    "name": "Veias Pulmonares",
+                    "value": 10
+                },
+                {
+                    "name": "Veia Cava Superior",
+                    "value": 8
+                },
+                {
+                    "name": "Veia Braquiocefálica",
+                    "value": 10
+                },
+                {
+                    "name": "Veia Jugular Interna",
+                    "value": 9
+                },
+                {
+                    "name": "Veia Subclávia",
+                    "value": 11
+                },
+                {
+                    "name": "Veia Ázigo",
+                    "value": 2
+                },
+                {
+                    "name": "Veia Intercostais",
+                    "value": 3
+                },
+                {
+                    "name": "Veia Subcostal",
+                    "value": 6
+                }
+                ]
+            },
+            {
+                "name": "Membro Superior",
+                "value": 20,
+                "children": [
+                {
+                    "name": "Veia Superficiais",
+                    "value": 15,
+                    "children": [
+                    {
+                        "name": "Veia Cefálica",
+                        "value": 3
+                    },
+                    {
+                        "name": "Veia Brasílica",
+                        "value": 8
+                    },
+                    {
+                        "name": "Veia Intermédia do Cotovelo",
+                        "value": 10
+                    },
+                    {
+                        "name": "Veia Intermédia do Antebraço",
+                        "value": 8
+                    }
+                    ]
+                },
+                {
+                    "name": "Veia Profundas",
+                    "value": 21,
+                    "children": [
+                    {
+                        "name": "Veia Axiliar",
+                        "value": 10
+                    },
+                    {
+                        "name": "Veia Branquial",
+                        "value": 11
+                    },
+                    {
+                        "name": "Veia Ulnar",
+                        "value": 7
+                    },
+                    {
+                        "name": "Veia Radial",
+                        "value": 6
+                    }
+                    ]
+                }
+                ]
+            },
+            {
+                "name": "Membro Inferior",
+                "value": 21,
+                "children": [
+                {
+                    "name": "Veias Superficiais",
+                    "value": 10,
+                    "children": [
+                    {
+                        "name": "Veia Safena Magna",
+                        "value": 8
+                    },
+                    {
+                        "name": "Veia Safena Parva",
+                        "value": 2
+                    }
+                    ]
+                },
+                {
+                    "name": "Veia Profundas",
+                    "value": 18,
+                    "children": [
+                    {
+                        "name": "Veia Femoral",
+                        "value": 6
+                    },
+                    {
+                        "name": "Veia Femoral Profunda",
+                        "value": 8
+                    },
+                    {
+                        "name": "Veia Poplítea",
+                        "value": 7
+                    },
+                    {
+                        "name": "Veia Tibial Anterior",
+                        "value": 10
+                    },
+                    {
+                        "name": "Veia Tibial Posterior",
+                        "value": 2
+                    },
+                    {
+                        "name": "Veia Fibular",
+                        "value": 3
+                    }
+                    ]
+                }
+                ]
+            },
+            {
+                "name": "Abdômen",
+                "value": 18,
+                "children": [
+                {
+                    "name": "Veia Cava Inferior",
+                    "value": 4
+                },
+                {
+                    "name": "Veia Hepáticas",
+                    "value": 3
+                },
+                {
+                    "name": "Veia Gástrica Esquerda",
+                    "value": 5
+                },
+                {
+                    "name": "Veia Gástrica Direita",
+                    "value": 3
+                },
+                {
+                    "name": "Veia Porta",
+                    "value": 5
+                },
+                {
+                    "name": "Veia Esplênica",
+                    "value": 1
+                },
+                {
+                    "name": "Veia Mesentérica Superior",
+                    "value": 12
+                },
+                {
+                    "name": "Veia Mesentérica Inferior",
+                    "value": 11
+                },
+                {
+                    "name": "Veia Renal",
+                    "value": 10
+                },
+                {
+                    "name": "Veia Sacral Mediana",
+                    "value": 11
+                },
+                {
+                    "name": "Veia Ilíaca Comum",
+                    "value": 9
+                },
+                {
+                    "name": "Veia Ilíaca Interna",
+                    "value": 8
+                },
+                {
+                    "name": "Veia Ilíaca Externa",
+                    "value": 9
+                },
+                {
+                    "name": "Veia Gonadal",
+                    "value": 1
+                }
+                ]
+            }
+            ]
+        }
+        ]
+    }
+    ]
+}
